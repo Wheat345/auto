@@ -12,7 +12,7 @@ there are 3 options:<br />
   -- turn left<br />
   -- turn right<br />
 then send back response to raspberry server <br />
-then triger motor api to response for next step.<br />
+then trigger motor api to response for next step.<br />
 
 # demo
 https://www.youtube.com/watch?v=JTMp4kJ3M78
